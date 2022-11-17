@@ -1,0 +1,64 @@
+section{
+        font-size:35px;
+
+    }
+    .items p{
+        width: 187px;
+    }
+    .first p {
+        width: 187px;
+    }
+    .histo p:nth-child(2){
+        width:249px;
+    }
+    .histo p:nth-child(4) {
+        width: 367px;
+    }
+    .title{
+        font-size: 48px;
+    }
+    .view_wrap {
+        height: 1720px;
+        width: 950px;
+    }
+    .date{
+        height: 65px;
+        font-size: 32px;
+
+    }
+    .small{
+        height: 66px;
+        font-size: 32px;
+        width: 329px;
+    }
+    .nr{
+        width: 32px;
+        height: 32px;
+        font: 38px Arial, sans-serif;
+        padding:32px;
+        }
+    .horizontalList{
+        height: 118px;
+    }
+    .headerLi{
+        font-size: 55px;
+    }
+    .headerLi li{
+        padding:37px 16px;
+    }
+    .headerLi i{
+        font-size: 55px;
+    
+    }
+    .searchfield{
+        padding-left:50px;
+    }
+    .histor i {
+        left:54px;
+    }
+    .searchicon i{
+        top:16px;
+    }
+    .login_section input{
+        padding:40px;
+    }
